@@ -1,0 +1,17 @@
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h

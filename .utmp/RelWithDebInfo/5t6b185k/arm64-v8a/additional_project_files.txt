@@ -1,0 +1,17 @@
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h

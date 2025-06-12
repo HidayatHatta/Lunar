@@ -1,0 +1,2 @@
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\TUGAS_KULIAH\semester 6\Mixed Reality\UAS\Project-UAS\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

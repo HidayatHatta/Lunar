@@ -1,0 +1,2 @@
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\CMakeLists.txt
+D:\Mixed Reality\Tugas 5 (Pert. 9)\Unity\Project-UAS\Project-UAS\Library\PramData\AndroidApplicationController\Cache\com.MR.UAS\gradle-project\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
