@@ -21,16 +21,27 @@
 ## 📦 Project Structure
 
 ImageTargetTataSurya/
+
 └── solar system/
+
 ├── sun
+
 ├── Earth
+
 │ └── Moon (with orbit)
+
 ├── mars
+
 ├── jup
+
 ├── sat
+
 ├── ura
+
 ├── nep
+
 ├── mer
+
 └── ven
 
 - All planets are orbiting the Sun using a custom `PlanetMotion.cs` script.
@@ -75,7 +86,6 @@ Lunar is developed for educational purposes to provide an immersive learning exp
 
 ## 👨‍💻 Developer
 
-Made with ❤️ by Hidayat Hatta  
-Contact: [your email or LinkedIn here, optional]
+Made with ❤️ by [Hidayat Hatta Irsyad](https://www.linkedin.com/in/hidayat-hatta-irsyad-36809a279/), [Muhammad Ikram Syafwan](https://www.linkedin.com/in/muhammad-ikram-syafwan-27610524a/), [Muhammad Muttakin](https://www.linkedin.com/in/muhammad-muttakin-908ab0269/), and [Najwa Rokhan Rusmana](https://www.linkedin.com/in/najwa-rokhan-rusmana-615790191/).
 
 ---
